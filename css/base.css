@@ -430,7 +430,7 @@ h6 { font-size:18px; line-height:23px}
 
 
 /* background image */
-.cover-background { background-position: center center !important; background-repeat: no-repeat !important; background-size: cover !important; overflow: hidden; position: relative;}
+.cover-background { background-position: center center !important; background-repeat: no-repeat !important; background-size: cover !important; overflow: hidden; position: relative; height: 85vh;}
 .fix-background { background-attachment: fixed !important; background-position: center center; background-repeat: no-repeat !important; background-size: cover !important; overflow: hidden; position: relative;}
 
 /* ===================================
